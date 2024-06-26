@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides detailed information on the API endpoints for a movie and TV show information service. It covers user management, movie and TV show information retrieval, watchlist management, and trending content.
+This document provides detailed information on the API endpoints for a movie, TV show , Adding Bookmark , Deleting Bookmark By ID , Deleting bookmark by Movie ID 
 
 ## User Management
 
